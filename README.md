@@ -21,6 +21,7 @@ Hi, I am a student at UP Famnit. Currently, I'm doing my bachelor's in Computer 
 * [**Hackathon**](https://github.com/ATemova/FAMNIT-Hackathon-3.0) project for the hackathon of University of Primorska 2024, the main idea was to create a news portal with the ability to generate the title to voice and image representation
 * [**Snake game**](https://github.com/janaStani/Snake-game) project made for the Computer Practicum II course
 
+You can reach me at: stanisavoskajana@gmail.com
 
 
 <!--
