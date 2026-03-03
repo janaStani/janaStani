@@ -2,7 +2,8 @@
 Hi, I am a student at UP Famnit. Currently, I'm doing my bachelor's in Computer Science. My primary interests are programming, artificial intelligence, robotics, computer vision, machine learning...
 
 ## Skills
-* Programming languages: *Java, C++, C, Bash, Python, Assembly, OCaml, HTML, CSS, JavaScript, C#*
+* Programming languages: *Java, C++, C, Bash, Python, Assembly, OCaml, JavaScript, C#*
+* Web Technologies: *HTML, CSS*
 * Databases: *MySQL*
 * Embedded Systems: *Arduino*
 * Version Control: *Git, GitHub, GitLab*
