@@ -21,7 +21,8 @@ Hi, I am a student at UP Famnit. Currently, I'm doing my bachelor's in Computer 
   [https://github.com/janaStani/AI-agent-plays-games]
 * **Machine learning** collaborative project analyzing a dataset <br />
   [https://github.com/janaStani/CPA-MSSS]
-
+* **Hackathon** project for the hackathon of University of Primorska 2024 the main idea was to create a news portal with the ability to generate the title to voice and image represenntation <br />
+  [https://github.com/ATemova/FAMNIT-Hackathon-3.0]
 
 
 
