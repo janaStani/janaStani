@@ -13,10 +13,14 @@ Hi, I am a student at UP Famnit. Currently, I'm doing my bachelor's in Computer 
   <p align="center"><img width="563" height="412" alt="image" src="https://github.com/user-attachments/assets/344b7482-26f5-42f6-895d-10a910954c99" /></p>  
 * Dancing robot project done for the Introduction to Robotics course using Parallax BoeBot, written in Arduino(C++) [https://github.com/janaStani/Dancing-Robot-Project]
 * Line following robot with splits, marks and gaps handling assignment done for the Introduction to Robotics course [https://github.com/janaStani/Robot-Line-Following-splits-marks-gaps]
-* Sierpinski Carpet project done for the course Programming 3 its aim is to be run in three different modes: sequential, parallel and distributed [https://github.com/janaStani/Sierpinski-Carpet-parallel-distributed-prog/tree/main]
-* Assembly 'Guessing game' project done for the Systems I course [https://github.com/janaStani/Assembly-project]
-* AI agent playing games, a compilation of agent implementations for different games done during the Artificial Intelligence 1 course [https://github.com/janaStani/AI-agent-plays-games]
-* Machine learning collaborative project [https://github.com/janaStani/CPA-MSSS]
+* Sierpinski Carpet project done for the course Programming 3 its aim is to be run in three different modes: sequential, parallel and distributed 
+[https://github.com/janaStani/Sierpinski-Carpet-parallel-distributed-prog/tree/main]
+* Assembly 'Guessing game' project done for the Systems I course 
+[https://github.com/janaStani/Assembly-project]
+* AI agent playing games, a compilation of agent implementations for different games done during the Artificial Intelligence 1 course 
+[https://github.com/janaStani/AI-agent-plays-games]
+* Machine learning collaborative project 
+[https://github.com/janaStani/CPA-MSSS]
 
 
 
