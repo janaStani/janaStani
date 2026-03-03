@@ -5,7 +5,7 @@ Hi, I am a student at UP Famnit. Currently, I'm doing my bachelor's in Computer 
 * Programming languages: *Java, C++, C, Bash, Python, Assembly, OCaml, JavaScript, C#*
 * Web Technologies: *HTML, CSS*
 * Databases: *MySQL*
-* Embedded Systems: *Arduino*
+* Embedded Systems: *Arduino(C++)*
 * Version Control: *Git, GitHub, GitLab*
 * Design Tools: *Figma, InVision, Adobe Photoshop, Adobe Illustrator*
 
