@@ -12,7 +12,7 @@ Hi, I am a student at UP Famnit. Currently, I'm doing my bachelor's in Computer 
 
 ## Projects
 * Human-computer interaction collaborative project enhanced treadmill running experience prototype in Figma [https://www.figma.com/design/p8xK5KI9y9SjREoBbmYlBz/HCI-treadmill-wireframe?node-id=0-1&t=d6ZlwC7t0fbZ5fPe-1]
-<img width="863" height="412" alt="image" src="https://github.com/user-attachments/assets/344b7482-26f5-42f6-895d-10a910954c99" />
+<img width="463" height="212" alt="image" src="https://github.com/user-attachments/assets/344b7482-26f5-42f6-895d-10a910954c99" />
   
 
 
