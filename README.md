@@ -1,18 +1,18 @@
 ## Jana Stanisavoska
 
-# About me
+## About me
 Hi, I am a student at UP Famnit. Currently, I'm doing my bachelor's in Computer Science. My primary interests are programming, artificial intelligence, robotics, computer vision, machine learning...
 
-#Skills
+## Skills
 * Programming languages: Java, C++, C, Bash, Python, Assembly, OCaml, HTML, CSS, JavaScript, C#
 * Databases: MySQL
 * Embedded Systems: Arduino
 * Version Control: Git, GitHub, GitLab
 * Design Tools: Figma, InVision, Adobe Photoshop, Adobe Illustrator
 
-#Projects
+## Projects
 * Human-computer interaction collaborative project enhanced treadmill running experience prototype in Figma [https://www.figma.com/design/p8xK5KI9y9SjREoBbmYlBz/HCI-treadmill-wireframe?node-id=0-1&t=d6ZlwC7t0fbZ5fPe-1]
-<img width="1163" height="812" alt="image" src="https://github.com/user-attachments/assets/344b7482-26f5-42f6-895d-10a910954c99" />
+<img width="863" height="412" alt="image" src="https://github.com/user-attachments/assets/344b7482-26f5-42f6-895d-10a910954c99" />
   
 
 
