@@ -17,6 +17,7 @@ Hi, I am a student at UP Famnit. Currently, I'm doing my bachelor's in Computer 
 * [**Sierpinski Carpet**](https://github.com/janaStani/Sierpinski-Carpet-parallel-distributed-prog/tree/main) project done for the course Programming 3 its aim is to be run in three different modes: sequential, parallel and distributed
 * [**Human-computer interaction**](https://www.figma.com/design/p8xK5KI9y9SjREoBbmYlBz/HCI-treadmill-wireframe?node-id=0-1&t=d6ZlwC7t0fbZ5fPe-1) collaborative project enhanced treadmill running experience prototype in Figma
   <p align="center"><img width="563" height="412" alt="image" src="https://github.com/user-attachments/assets/344b7482-26f5-42f6-895d-10a910954c99" /></p>  
+* [**PlantPal**](https://gitlab.com/aljamk/plantpal) collaborative web app project for the course Management of Informational Technologies
 * [**Assembly**](https://github.com/janaStani/Assembly-project) 'Guessing game' project done for the Systems I course
 * [**Hackathon**](https://github.com/ATemova/FAMNIT-Hackathon-3.0) project for the hackathon of University of Primorska 2024, the main idea was to create a news portal with the ability to generate the title to voice and image representation
 * [**Snake game**](https://github.com/janaStani/Snake-game) project made for the Computer Practicum II course
