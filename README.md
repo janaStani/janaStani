@@ -7,7 +7,7 @@ I enjoy building practical applications and exploring how software can be used t
 * Programming languages: *Java, C++, C, Bash, Python, Assembly, OCaml, JavaScript, C#*
 * Web & Frameworks: *HTML, CSS, React, Node.js, Express, REST APIs, Axios,  Vite, WordPress*
 * Databases: *MySQL, SQLite*
-* Embedded Systems: *Arduino (C++), ROS 1, ROS2*
+* Robotics: *Arduino (C++), ROS 1, ROS2*
 * Version Control: *Git, GitHub, GitLab*
 * Design Tools: *Figma, InVision, Adobe Photoshop, Adobe Illustrator, Canva*
 
@@ -27,6 +27,12 @@ I enjoy building practical applications and exploring how software can be used t
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=arduino,cpp" width="50">
   </a>
+
+* [**ROS1 vs ROS2 Mapping Comparison**](https://github.com/ATemova/ros1-ros2-mapping-comparison) collaborative robotics research project comparing ROS1 and ROS2 mapping pipelines, contributing to metric analysis, experiment validation, and CI testing
+
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,bash,docker,githubactions" width="110">
+</a>
   
 * [**Machine learning**](https://github.com/janaStani/CPA-MSSS) collaborative project analyzing a dataset 
   <a href="https://skillicons.dev">
