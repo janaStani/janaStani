@@ -3,6 +3,15 @@ Hi, I am a student at [UP FAMNIT](https://www.famnit.upr.si/). Currently, I'm do
 
 I enjoy building practical applications and exploring how software can be used to solve real-world problems. I am also interested in web development and UI/UX, combining technical development with thoughtful and intuitive design.
 
+## Design
+I work on UI/UX and visual design, from interface prototypes to digital content.
+* See my Behance design [portfolio](https://www.behance.net/janastanisa)
+
+## Get in touch
+You can reach me at: 
+  * stanisavoskajana@gmail.com
+  * [LinkedIn](https://www.linkedin.com/in/jana-stanisavoska-48694125b/)
+
 ## Skills
 * Programming languages: *Java, C++, C, Bash, Python, Assembly, OCaml, JavaScript, C#*
 * Web & Frameworks: *HTML, CSS, React, Node.js, Express, REST APIs, Axios,  Vite, WordPress*
@@ -64,17 +73,7 @@ I enjoy building practical applications and exploring how software can be used t
   
 * [**Hackathon**](https://github.com/ATemova/FAMNIT-Hackathon-3.0) project for the hackathon of University of Primorska 2024, the main idea was to create a news portal with the ability to generate the title to voice and image representation
 
-  <img src="https://skillicons.dev/icons?i=html,css,js" width="90">
-
-## Design
-I also work on UI/UX and visual design, from interface prototypes to digital content.
-* See my Behance design [portfolio](https://www.behance.net/janastanisa)
-
-## Get in touch
-You can reach me at: 
-  * stanisavoskajana@gmail.com
-  * [LinkedIn](https://www.linkedin.com/in/jana-stanisavoska-48694125b/)
-  
+  <img src="https://skillicons.dev/icons?i=html,css,js" width="90">  
 
 <!--
 **janaStani/janaStani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
